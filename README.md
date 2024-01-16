@@ -14,6 +14,7 @@
 ## Демо
 
 - Демонстрационный сайт доступен по адресу: https://chistaitravel.ru/
+- Код проекта: https://github.com/JohnHozin/diplom_tiket
 
 ## Автор
 
